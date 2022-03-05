@@ -1,5 +1,7 @@
 # Adonis fullstack application
 
+aws-helpers-api-auth-mvc
+
 This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
 
 1. Bodyparser
